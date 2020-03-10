@@ -5,6 +5,10 @@ body{
     background-size: 100%;
 }
 
+.row{
+    padding-top: 10px;
+}
+
 
 #ui{
     background-color: #fff;
